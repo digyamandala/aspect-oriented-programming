@@ -1,0 +1,7 @@
+.idea
+*.iws
+*.iml
+*.ipr
+.classpath
+.settings
+tomcat/
